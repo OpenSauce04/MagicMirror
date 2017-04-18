@@ -1,0 +1,14 @@
+[
+{
+  "modid": "magicmirror",
+  "name": "MagicMirror",
+  "description": "Adds the Magic Mirror from Terraria to Minecraft.",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "http://www.ostpol.it/",
+  "authorList": ["ostpol"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
